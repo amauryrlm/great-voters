@@ -1,0 +1,354 @@
+graph the_graph {
+ordering=out
+layout="neato"
+A [label="0",pos="15.915494,0.000000!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+B [label="1",pos="15.789996,1.994740!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+C [label="2",pos="15.415480,3.958022!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+D [label="3",pos="14.797852,5.858884!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+E [label="4",pos="13.946854,7.667348!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+F [label="5",pos="12.875905,9.354893!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+G [label="6",pos="11.601896,10.894906!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+H [label="7",pos="10.144918,12.263099!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+I [label="8",pos="8.527948,13.437896!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+J [label="9",pos="6.776488,14.400770!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+K [label="10",pos="4.918158,15.136535!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+L [label="11",pos="2.982266,15.633587!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+M [label="12",pos="0.999342,15.884089!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+N [label="13",pos="-0.999342,15.884089!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+O [label="14",pos="-2.982266,15.633587!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+P [label="15",pos="-4.918158,15.136535!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+Q [label="16",pos="-6.776488,14.400770!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+R [label="17",pos="-8.527948,13.437896!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+S [label="18",pos="-10.144918,12.263099!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+T [label="19",pos="-11.601896,10.894906!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+U [label="20",pos="-12.875905,9.354893!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+V [label="21",pos="-13.946854,7.667348!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+W [label="22",pos="-14.797852,5.858884!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+X [label="23",pos="-15.415480,3.958022!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+Y [label="24",pos="-15.789996,1.994740!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+Z [label="25",pos="-15.915494,0.000000!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+AB [label="26",pos="-15.789996,-1.994740!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+BB [label="27",pos="-15.415480,-3.958022!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+CB [label="28",pos="-14.797852,-5.858884!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+DB [label="29",pos="-13.946854,-7.667348!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+EB [label="30",pos="-12.875905,-9.354893!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+FB [label="31",pos="-11.601896,-10.894906!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+GB [label="32",pos="-10.144918,-12.263099!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+HB [label="33",pos="-8.527948,-13.437896!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+IB [label="34",pos="-6.776488,-14.400770!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+JB [label="35",pos="-4.918158,-15.136535!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+KB [label="36",pos="-2.982266,-15.633587!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+LB [label="37",pos="-0.999342,-15.884089!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+MB [label="38",pos="0.999342,-15.884089!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+NB [label="39",pos="2.982266,-15.633587!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+OB [label="40",pos="4.918158,-15.136535!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+PB [label="41",pos="6.776488,-14.400770!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+QB [label="42",pos="8.527948,-13.437896!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+RB [label="43",pos="10.144918,-12.263099!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+SB [label="44",pos="11.601896,-10.894906!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+TB [label="45",pos="12.875905,-9.354893!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+UB [label="46",pos="13.946854,-7.667348!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+VB [label="47",pos="14.797852,-5.858884!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+WB [label="48",pos="15.415480,-3.958022!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+XB [label="49",pos="15.789996,-1.994740!",shape=circle,width=1.,fixedsize=true,style=filled,fillcolor="#1D3557"
+]
+A -- C
+A -- F
+A -- K
+A -- O
+A -- EB
+A -- MB
+A -- SB
+A -- UB
+B -- C
+B -- D
+B -- F
+B -- I
+B -- S
+B -- GB
+B -- QB
+B -- RB
+B -- TB
+B -- UB
+B -- VB
+B -- XB
+C -- H
+C -- V
+C -- X
+C -- EB
+C -- KB
+C -- LB
+C -- TB
+C -- VB
+D -- E
+D -- F
+D -- G
+D -- H
+D -- M
+D -- T
+D -- Y
+D -- TB
+D -- XB
+E -- J
+E -- T
+E -- Y
+E -- BB
+E -- LB
+E -- QB
+E -- RB
+E -- WB
+E -- XB
+F -- H
+F -- L
+F -- W
+F -- AB
+F -- BB
+F -- UB
+G -- H
+G -- I
+G -- K
+G -- R
+G -- HB
+G -- NB
+G -- RB
+H -- I
+H -- J
+H -- K
+H -- L
+H -- Q
+I -- J
+I -- N
+I -- Q
+I -- R
+I -- CB
+I -- EB
+I -- HB
+I -- UB
+I -- VB
+J -- K
+J -- L
+J -- O
+J -- X
+J -- IB
+J -- MB
+K -- M
+K -- N
+K -- P
+K -- V
+K -- W
+K -- OB
+K -- RB
+L -- M
+L -- P
+L -- W
+L -- X
+L -- AB
+M -- N
+M -- P
+M -- S
+M -- U
+M -- IB
+M -- MB
+M -- RB
+M -- WB
+M -- XB
+N -- O
+N -- Q
+N -- R
+N -- EB
+N -- GB
+N -- OB
+O -- P
+O -- T
+O -- Y
+O -- AB
+O -- UB
+O -- VB
+P -- Q
+P -- X
+P -- GB
+P -- JB
+P -- RB
+P -- TB
+P -- UB
+P -- XB
+Q -- R
+Q -- T
+Q -- V
+R -- S
+R -- U
+R -- DB
+R -- FB
+R -- HB
+R -- KB
+R -- PB
+R -- UB
+S -- Y
+S -- IB
+S -- OB
+S -- UB
+T -- U
+T -- Y
+T -- KB
+T -- LB
+T -- RB
+U -- V
+U -- X
+U -- Y
+U -- Z
+V -- Y
+V -- Z
+V -- BB
+V -- NB
+V -- QB
+V -- UB
+W -- Y
+W -- Z
+W -- AB
+W -- CB
+W -- DB
+X -- Y
+X -- Z
+X -- AB
+X -- DB
+X -- IB
+X -- LB
+X -- TB
+Y -- BB
+Y -- KB
+Y -- OB
+Y -- QB
+Y -- RB
+Y -- SB
+Y -- WB
+Z -- AB
+Z -- BB
+Z -- DB
+Z -- IB
+Z -- MB
+Z -- SB
+Z -- XB
+AB -- CB
+AB -- HB
+AB -- IB
+AB -- LB
+AB -- OB
+BB -- CB
+BB -- DB
+BB -- HB
+BB -- QB
+CB -- FB
+CB -- GB
+CB -- HB
+CB -- RB
+CB -- WB
+DB -- EB
+DB -- GB
+DB -- HB
+DB -- IB
+EB -- FB
+EB -- GB
+EB -- HB
+EB -- PB
+EB -- VB
+FB -- HB
+FB -- IB
+FB -- JB
+FB -- KB
+FB -- LB
+FB -- PB
+GB -- HB
+GB -- IB
+GB -- LB
+GB -- NB
+HB -- MB
+HB -- UB
+IB -- JB
+IB -- KB
+IB -- RB
+IB -- WB
+JB -- KB
+JB -- LB
+JB -- MB
+JB -- NB
+KB -- MB
+KB -- WB
+LB -- QB
+LB -- TB
+MB -- NB
+MB -- PB
+MB -- WB
+NB -- OB
+NB -- QB
+NB -- RB
+NB -- VB
+OB -- PB
+OB -- QB
+OB -- TB
+PB -- QB
+PB -- RB
+PB -- UB
+QB -- RB
+QB -- TB
+QB -- WB
+QB -- XB
+SB -- TB
+SB -- UB
+SB -- WB
+SB -- XB
+TB -- VB
+TB -- WB
+UB -- WB
+VB -- WB
+VB -- XB
+WB -- XB
+}
